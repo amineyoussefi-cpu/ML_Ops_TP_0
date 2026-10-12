@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Model weights & checkpoints
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+checkpoints_*/
+
+# Data
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Reports (binary/generated)
+*.docx
+*.pdf
